@@ -1,7 +1,7 @@
 # Smartphone-Controlled-Robot-4WS-4WD--ESP32
-Final Semester Project for Unitec Institue of Technology
+Final Semester Project for Unitec Institue of Technology.
 
-These are codes and 3D modellings I have created for my final semester project at Unitec Institute of Technology
+These are codes and 3D modellings I have created for my final semester project at Unitec Institute of Technology.
 
 I have created an Android App using MIT App Inventor and custom PCB board which includes ESP32 micro-controller which will use its Bluetooth feature for the connection.
 
